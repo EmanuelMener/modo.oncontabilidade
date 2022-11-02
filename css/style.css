@@ -53,6 +53,11 @@
 .site-main .site-banner .site-title h3{
     padding-top: 35%;
     font-weight: 500;
+    line-height: 60px;
+}
+.site-main .site-banner .site-title .spamhead{
+    color: var(--primary-fundo);
+    font:'Roboto black';
 }
 
 .site-main .site-banner .site-title h3::after{
